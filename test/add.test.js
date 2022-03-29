@@ -1,4 +1,4 @@
-const add = require('./lib/add');
+const add = require('../lib/add');
 
 describe('add', () => {
   test('adds 2 and 2', () => {

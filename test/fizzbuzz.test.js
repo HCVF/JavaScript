@@ -1,4 +1,4 @@
-const fizzBuzz = require('./lib/fizzbuzz');
+const fizzBuzz = require('../lib/fizzbuzz');
 
 describe ('fizzBuzz', () => {
   test('it returns Fizz if given 3', () => {
